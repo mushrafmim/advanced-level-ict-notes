@@ -115,6 +115,6 @@ keeping data securely and making them accessible necessarily are done while mana
 
 value of information in it's maximum level at the moment of information is created or the information is released. The value of information is reduced gradually with the time and become less valuable.
 
-![alt text](image-1.png)
+![alt text](images/06%20value-of-information.png)
 
 ## Big Data Analytics
