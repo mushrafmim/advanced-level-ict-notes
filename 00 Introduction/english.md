@@ -1,4 +1,4 @@
-# Introduce the units
+# Units
 
 1. Concepts of ICT
 2. Introduction to Computer
@@ -13,14 +13,15 @@
 11. Internet of Things – IOT
 12. ICT in Business
 13. New Trends and Future Directions of ICT
-    d
 
-# Introduce the final paper
+# Final Paper
 
 PI
 
 - 2 hours
 - 50 MCQs
+- Each question carries 1 mark out of 100
+- 5 options
 
 PII
 

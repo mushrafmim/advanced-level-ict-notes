@@ -22,7 +22,7 @@ Note: Information helps us to make decisions while data is just raw facts.
 
 ## Data Processing
 
-![alt text](image.png)
+![alt text](images/01%20data-process-flow.png)
 
 Examples:
 
@@ -80,6 +80,8 @@ Ordering the goodwill from top to bottom by mobile manufacturers.
 
 ## Some Expected Qualities from Information
 
+![alt text](images/04%20qualities%20of%20information.png)
+
 - Relavance  
   Example:
 
@@ -101,3 +103,16 @@ Ordering the goodwill from top to bottom by mobile manufacturers.
 - Understandability  
   Example:
   - Explaining a complex topic in a simple way is important for the audience to understand.
+
+## Data Life Cycle
+
+![alt text](images/05%20data-life-cycle.png)
+
+Data should be introduced in to the system or created inside the system.
+keeping data securely and making them accessible necessarily are done while management of data. When the data is outdated and found to be unnessessary its time to remove that data from the system.
+
+## Value of Information
+
+value of information in it's maximum level at the moment of information is created or the information is released. The value of information is reduced gradually with the time and become less valuable.
+
+## Big Data Analytics
