@@ -118,3 +118,5 @@ value of information in it's maximum level at the moment of information is creat
 ![alt text](images/06%20value-of-information.png)
 
 ## Big Data Analytics
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bAyrObl7TYE?si=IoNhl61X3_MCH7QF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
